@@ -1,0 +1,12 @@
+# Preproposal
+
+## What idea(s) do you have for your final project? 
+My idea was to do a uno card with four different players so every player has seven uno cards in their hands, the uno card in the middle can be either be 0-9, colors (yellow, green, blue, red), adding four color change, adding two on any of the four colors being provided, reverse card, color change, skip card any of the four colors, combining the same color, challenge option of what color is on any of the three opponent player hands, 
+
+## If you plan to collaborate with one or two classmates, what are their names?
+
+I’m collaborating with Professor Andrew Rosen.
+
+## Do you have any questions of your own?
+
+How long do we have to present the summary of the uno game online and does it matter if we turn in the final project assignment do we turn in the recorded presentation with the python idle function on py.game?
